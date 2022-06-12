@@ -1,4 +1,4 @@
-# Repository for creating your own OS <br>
+# Repository for creating my own OS <br>
 The goal of this repository is to create one's own original OS with reference to the book.<br>
 
 
