@@ -4,6 +4,7 @@ The goal of this repository is to create one's own original OS with reference to
 
 # OS自作用リポジトリ <br>
 『ゼロからのOS自作入門』を写経するところから始めて、自身のオリジナルOSを作ることが目標。<br>
+現在、各章の通読と実装を進行中。オリジナルOSは公開予定。<br>
 
 
 # 参考
