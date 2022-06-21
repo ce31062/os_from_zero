@@ -11,6 +11,6 @@ The operating environment uses QEMU and CF-RZ5, which is a laptop manufactured b
 # Screen
 ![day11e](https://user-images.githubusercontent.com/74296872/174435952-9a82c493-00ba-43a5-aee1-8473088e6e64.png)
 
-# Reference
+# Reference 『ゼロからのOS自作入門』
 http://zero.osdev.jp/　<br>
 ![image](https://user-images.githubusercontent.com/74296872/173007556-5feaa90e-a987-4574-867c-3d0823655e1c.png)
