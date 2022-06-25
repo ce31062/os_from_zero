@@ -6,8 +6,8 @@
 現在は1周目の通読と実装が完了して、<br>
 下図のように複数Appの起動やテキストファイル、画像ファイルなどの表示に成功した。<br>
 
-# スクリーン画面<br>
-QEMU<br>
+# OS画面<br>
+QEMU, MikanOS<br>
 ![day30f](https://user-images.githubusercontent.com/74296872/175767987-5096a2de-d570-4afc-acb2-fee3510c57b8.png)
 
 # 参考本『ゼロからのOS自作入門』
