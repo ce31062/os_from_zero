@@ -9,7 +9,7 @@ The operating environment uses QEMU and CF-RZ5, which is a laptop manufactured b
 動作環境はQEMUとPanasonic社製のLaptopであるCF-RZ5を使用する。<br>
 
 # Screen
-![day11e](https://user-images.githubusercontent.com/74296872/174435952-9a82c493-00ba-43a5-aee1-8473088e6e64.png)
+![day24c](https://user-images.githubusercontent.com/74296872/175760730-79e0709f-0083-4544-a564-a58f0a2d6c10.png)
 
 # Reference 『ゼロからのOS自作入門』
 http://zero.osdev.jp/　<br>
