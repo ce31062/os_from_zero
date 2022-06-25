@@ -5,7 +5,7 @@ The operating environment uses QEMU and CF-RZ5, which is a laptop manufactured b
 
 # OS自作用リポジトリ <br>
 『ゼロからのOS自作入門』を写経するところから始めて、自身のオリジナルOSを作ることが目標。<br>
-現在、各章の通読と実装を進行中。オリジナルOSは公開予定。<br>
+現在、各章の通読と実装を進行中。<br>
 動作環境はQEMUとPanasonic社製のLaptopであるCF-RZ5を使用する。<br>
 
 # Screen
