@@ -13,6 +13,8 @@
 # OS画面<br>
 QEMU, MikanOS<br>
 ![day30f](https://user-images.githubusercontent.com/74296872/175767987-5096a2de-d570-4afc-acb2-fee3510c57b8.png)
+![mikanOS](https://user-images.githubusercontent.com/74296872/176448937-fd0f986f-7a6b-4d6f-ac45-a03de352b84f.gif)
+
 
 # 参考本『ゼロからのOS自作入門』
 http://zero.osdev.jp/　<br>
