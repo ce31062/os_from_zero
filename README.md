@@ -17,5 +17,6 @@ QEMU, MikanOS<br>
 
 # 参考本『ゼロからのOS自作入門』
 OSを手作りしながらOSの仕組みを楽しく学べる。<br>
+UEFIで起動するIntel64モードで動作して、USB3.0ドライバやマルチタスクなどにも対応したOSを段階的に手作りできる。<br>
 http://zero.osdev.jp/　<br>
 ![image](https://user-images.githubusercontent.com/74296872/173007556-5feaa90e-a987-4574-867c-3d0823655e1c.png)
