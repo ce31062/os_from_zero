@@ -12,10 +12,10 @@
 ・コマンドにTab補完を追加する<br>
 
 # OS画面<br>
-QEMU, MikanOS…Under developing<br>
+QEMU, MikanOS<br>
 ![OS_from_zero_mikanOS](https://user-images.githubusercontent.com/74296872/176450306-08a06869-ec79-4333-99cb-38f8183aaf2d.gif)
 
-Panasonic Laptop-PC (CF-RZ5)<br>
+Panasonic Laptop-PC (CF-RZ5)…Under developing<br>
 ![image](https://user-images.githubusercontent.com/74296872/177804955-b11e2853-9755-4466-82d9-fbe8b0c0cfde.png)
 
 # 参考本『ゼロからのOS自作入門』
