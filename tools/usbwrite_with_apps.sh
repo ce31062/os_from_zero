@@ -12,8 +12,7 @@ sudo mkdir -p /mnt/usbmem
 sudo mount /dev/sdf1 /mnt/usbmem
 sudo mkdir -p /mnt/usbmem/EFI/BOOT
 sudo cp $HOME/workspace/mikanos/mnt/kernel.elf /mnt/usbmem
-sudo cp /home/ubuntu/workspace/mikanos/mnt/EFI/BOOT/BOOTX64.EFI /mnt/usbmem/EFI/BOOT
-sudo cp /home/ubuntu/workspace/mikanos/mnt/onlyhlt /mnt/usbmem
+sudo cp $HOME/workspace/mikanos/mnt/EFI/BOOT/BOOTX64.EFI /mnt/usbmem/EFI/BOOT
+sudo cp $HOME/workspace/mikanos/mnt/onlyhlt /mnt/usbmem
 sudo umount /mnt/usbmem
-
 
