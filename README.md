@@ -15,6 +15,9 @@
 QEMU, MikanOS<br>
 ![OS_from_zero_mikanOS](https://user-images.githubusercontent.com/74296872/176450306-08a06869-ec79-4333-99cb-38f8183aaf2d.gif)
 
+Panasonic Laptop-PC (CF-RZ5)<br>
+![image](https://user-images.githubusercontent.com/74296872/177804955-b11e2853-9755-4466-82d9-fbe8b0c0cfde.png)
+
 # 参考本『ゼロからのOS自作入門』
 OSを手作りしながらOSの仕組みを楽しく学べる。<br>
 UEFIで起動するIntel64モードで動作して、USB3.0ドライバやマルチタスクなどにも対応したOSを段階的に手作りできる。<br>
