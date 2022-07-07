@@ -1,6 +1,7 @@
 #This script is executed when volume strage like as usb memory.
 #Change the boot storage path according to the environment.
 
+
 cd $HOME/workspace/mikanos
 source ~/osbook/devenv/buildenv.sh
 source build.sh
