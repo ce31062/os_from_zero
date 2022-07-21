@@ -22,9 +22,9 @@
 | Item | Version |
 | ------------- | ------------- |
 | HostPC  | CPU:Intel Core i7-9700KF, RAM: 32GB  |
-| Cコンパイラ  | Clang  |
-| リンカ  | LLVM  |
-| エミュレータ  | QEMU  |
+| Cコンパイラ  | Clang 7.0.0  |
+| リンカ  | LLVM Linker(LLD) 7.0.0  |
+| エミュレータ  | QEMU 2.11.1  |
 | OS動作確認用PC  | CF-RZ5 (Panasonic)  |
 
 ## 参考文献 <br>
