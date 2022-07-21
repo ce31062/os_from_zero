@@ -18,14 +18,13 @@
 <img src="https://user-images.githubusercontent.com/74296872/177804955-b11e2853-9755-4466-82d9-fbe8b0c0cfde.png" width="700"><br>
 
 ## 開発環境<br>
-//Version確認中 <br>
 | Item | Version |
 | ------------- | ------------- |
 | HostPC  | CPU:Intel Core i7-9700KF, RAM: 32GB  |
 | Cコンパイラ  | Clang 7.0.0  |
 | リンカ  | LLVM Linker(LLD) 7.0.0  |
 | エミュレータ  | QEMU 2.11.1  |
-| OS動作確認用PC  | CF-RZ5 (Panasonic)  |
+| 動作確認用PC  | CF-RZ5 (Panasonic)  |
 
 ## 参考文献 <br>
 [『ゼロからのOS自作入門』](http://zero.osdev.jp/)<br>
