@@ -5,7 +5,7 @@
 現在は1周目の通読と実装が完了して、<br>
 下図のように自作OS上で複数アプリの起動やテキストファイル、画像ファイルなどの表示に成功。<br>
 今後、実装を考えているアイデア。<br>
-・実機のCF-RZ5でQEMUと同様の内容が動作できるようにする(★現在取り組み中)<br>
+・実機のCF-RZ5でQEMUと同様の内容が動作できるようにする【完了】<br>
 ・OS画面のデザイン変更(壁紙, カーソル, ウィンドウなど)<br>
 ・テトリスAppを作成する。 <br>
 ・起動画面を追加してOSっぽくする<br>
@@ -14,8 +14,8 @@
 ## OS画面<br>
 シミュレータ：QEMU, MikanOS<br>
 <img src="https://user-images.githubusercontent.com/74296872/176450306-08a06869-ec79-4333-99cb-38f8183aaf2d.gif" width="700"><br>
-実機：Panasonic Laptop-PC (CF-RZ5)…取り組み中<br>
-<img src="https://user-images.githubusercontent.com/74296872/177804955-b11e2853-9755-4466-82d9-fbe8b0c0cfde.png" width="700"><br>
+実機：Panasonic Laptop-PC (CF-RZ5)<br>
+<img src="https://user-images.githubusercontent.com/74296872/202130883-5f03d99c-d80a-4e6c-9c09-3630e121a25a.png" width="700"><br>
 
 ## 開発環境<br>
 | Item | Version |
